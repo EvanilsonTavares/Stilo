@@ -1,0 +1,39 @@
+{
+    "object": "whatsapp_business_account",
+    "entry": [
+        {
+            "id": "859064040170638",
+            "changes": [
+                {
+                    "value": {
+                        "messaging_product": "whatsapp",
+                        "metadata": {
+                            "display_phone_number": "123",
+                            "phone_number_id": "905401945993424"
+                        },
+                        "contacts": [
+                            {
+                                "profile": {
+                                    "name": "User"
+                                },
+                                "wa_id": "5583996702675"
+                            }
+                        ],
+                        "messages": [
+                            {
+                                "from": "5583996702675",
+                                "id": "test_id_999",
+                                "timestamp": "12345678",
+                                "text": {
+                                    "body": "Oi Stilo, teste de sistema!"
+                                },
+                                "type": "text"
+                            }
+                        ]
+                    },
+                    "field": "messages"
+                }
+            ]
+        }
+    ]
+}

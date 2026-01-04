@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+backend/venv/
+backend/.venv/
+.venv/
+env/
+venv/
+ENV/
+bin/
+lib/
+share/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large Project Archives or Zips
+Stilo.zip
+temp_zip/
+
+# Context/Agent specific (optional but recommended to keep repo clean)
+.context/
+.gemini/
+.agent/
+brain/
+implementation_plan.md
+task.md
+walkthrough.md

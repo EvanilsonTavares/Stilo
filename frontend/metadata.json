@@ -1,0 +1,7 @@
+{
+  "name": "Stilo - Consultor de Estilo Masculino",
+  "description": "Seu consultor de imagem pessoal via WhatsApp. Prático, direto e sem frescura para o homem moderno.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,4 +1,4 @@
-# Stilo - Consultor de Estilo Masculino
+# Stilo - Consultor de Estilo
 
 Este projeto utiliza a metodologia **Gemini Conductor (Context-Driven Development)**.
 

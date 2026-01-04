@@ -1,7 +1,7 @@
 # Landing Copy (Simple)
 
 ## Headline
-"Estilo masculino tecnico, acessivel e rapido."
+"Estilo técnico, acessível e rápido."
 
 ## Subheadline
 "Diagnostico de imagem em 24h com biotipo, cor e caimento. R$ 14,99/mes com 7 dias gratis."

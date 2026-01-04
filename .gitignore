@@ -41,9 +41,9 @@ Thumbs.db
 # Large Project Archives or Zips
 Stilo.zip
 temp_zip/
+n8n_data/
 
 # Context/Agent specific (optional but recommended to keep repo clean)
-.context/
 .gemini/
 .agent/
 brain/
